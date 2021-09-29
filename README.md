@@ -1,5 +1,3 @@
-Welcome to the SUNA_Nitrate_processing wiki!
-
 # Introduction
 This processing package was developed to process data collected with a SUNA V2 deployed on a mooring. The steps described in this document are similar those described in the SUNA v2 manual and available through Sea-Bird’s UCI software. This toolbox has been developed to allow more control and better understanding throughout the process, and produce consistent data products year to year while maintaining flexibility.
 
