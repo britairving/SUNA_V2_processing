@@ -22,6 +22,7 @@ Please review the following wiki pages.
 # Citation and acknowledgement
 If you use this toolbox, please cite as follows: Brita Irving, (2021), SUNA_V2_processing, GitHub repository, https://github.com/britairving/SUNA_V2_processing/
 
+Funding to create this toolbox was provided by the Arctic Marine Biodiversity Monitoring Network (AMBON) project. 
 # References
 Daniel, A., Laës-Huon, A., Barus, C., Beaton, A.D., Blandfort, D., Guigues, N., Knockaert, M., Muraron, D., Salter, I., Woodward, E.M.S., Greenwood, N., Achterberg, E.P. (2020). Toward a harmonization for using in situ nutrient sensors in the marine environment. Front. Mar. Sci., 6,  p. 773,doi:10.3389/fmars.2019.00773.
 
