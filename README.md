@@ -11,13 +11,13 @@ Thanks to [Seth Danielson](https://www.uaf.edu/cfos/people/faculty/detail/seth-d
 
 Please review the following wiki pages. 
   
-[1. Assumptions, notes, and recommendations](https://github.alaska.edu/bkirving/SUNA_Nitrate_processing/wiki/1.-Assumptions,-notes,-and-recommendations)
+[1. Assumptions, notes, and recommendations](https://github.com/britairving/SUNA_V2_processing/wiki/1.-Assumptions,-notes,-and-recommendations)
 
-[2. Processing background and workflow](https://github.alaska.edu/bkirving/SUNA_Nitrate_processing/wiki/2.-Processing-background-and-workflow)
+[2. Processing background and workflow](https://github.com/britairving/SUNA_V2_processing/wiki/2.-Processing-background-and-workflow)
 
-[3. Automatic QC procedures](https://github.alaska.edu/bkirving/SUNA_Nitrate_processing/wiki/3.-Automatic-QC-procedures)
+[3. Automatic QC procedures](https://github.com/britairving/SUNA_V2_processing/wiki/3.-Automatic-QC-procedures)
 
-[4. SUNA calibration corrections](https://github.alaska.edu/bkirving/SUNA_Nitrate_processing/wiki/4.-SUNA-calibration-corrections)
+[4. SUNA calibration corrections](https://github.com/britairving/SUNA_V2_processing/wiki/4.-SUNA-calibration-corrections)
 
 # Citation and acknowledgement
 If you use this toolbox, please cite as follows: Brita Irving, (2021), SUNA_V2_processing, GitHub repository, https://github.com/britairving/SUNA_V2_processing/
